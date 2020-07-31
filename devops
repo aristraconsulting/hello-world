@@ -25,3 +25,4 @@ tcpdump:x:72:72::/:/sbin/nologin
 ec2-user:x:1000:1000:EC2 Default User:/home/ec2-user:/bin/bash
 polkitd:x:996:994:User for polkitd:/:/sbin/nologin
 jenkins:x:995:993:Jenkins Automation Server:/var/lib/jenkins:/bin/false
+This is an awesome session
